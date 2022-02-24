@@ -1,0 +1,19 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAR Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylan32/PCAT.git"
+  },
+  "author": "Taylan Alparslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylan32/PCAT/issues"
+  },
+  "homepage": "https://github.com/taylan32/PCAT#readme"
+}
